@@ -1,6 +1,6 @@
 body
 {
-    background: chartreuse;
+    background: black;
     color: rgb(51, 51, 51);
     text-align: left;
     font-family: "Arial";
@@ -18,7 +18,7 @@ body
 }
 #cabecera #logo
 {
-    width: 10px;
+    width: 15px;
     vertical-align: middle;
 }
 #cabecera
