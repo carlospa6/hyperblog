@@ -1,5 +1,6 @@
 body
 {
+    background: chartreuse;
     color: rgb(51, 51, 51);
     text-align: left;
     font-family: "Arial";
@@ -15,9 +16,14 @@ body
     border: 1px solid #ddd;
     margin: auto;
 }
+#cavecera #logo
+{
+    width: 20px;
+    vertical-align: middle;
+}
 #cabecera
 {
-    background: blue;
+    background: blue, url();
     box-shadow: 0px 2px 20px 0px rgba(46, 23, 23, 0.5);
     color: white;
     font-weight: bold;
